@@ -1,4 +1,10 @@
-﻿[Elastica](https://github.com/ruflin/Elastica) integration in Symfony2
+﻿**Note:** This bundle has moved to
+[FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) under
+the [FriendsOfSymfony](https://github.com/FriendsOfSymfony) organization.
+
+----
+
+[Elastica](https://github.com/ruflin/Elastica) integration in Symfony2
 
 ## Installation
 
